@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Template Scene.unity
+    guid: 66a92ede3361921429f22d1468c75a42
+  - enabled: 1
+    path: Assets/Scenes/LD Review/matiaz_LD_integration.unity
+    guid: 564cc20003729484bbea4d11b4f3f638
+  - enabled: 1
+    path: Assets/Scenes/Ld level 2/Ld ville.unity
+    guid: ec2a1ccc36e372b4d83555e24bd4dead
+  - enabled: 1
+    path: Assets/Scenes/LD Level 3/Level 3 - Sewer.unity
+    guid: 70d068c18f808cb49a1f24c0ead800bf
+  - enabled: 1
+    path: Assets/Scenes/LD Review/Usine_1_Matthieu_LD4.unity
+    guid: 07dc897615b552d47a5751d487b7684a
+  - enabled: 1
+    path: Assets/Scenes/LD Review/Usine 2 (Juan, LD5).unity
+    guid: a131a9e6be8ab5d45a7870d1ca0a592d
+  - enabled: 1
+    path: Assets/Scenes/LD Review/LD niveau 6.unity
+    guid: 1efae78f60be9034191f3ad2c8ca3e49
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 056cc9a8ef9605946a018a51729f9acb, type: 2}
